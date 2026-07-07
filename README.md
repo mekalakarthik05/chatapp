@@ -332,4 +332,4 @@ You can contribute by:
 
 https://github.com/mekalakarthik05
 
-If you found this project useful, consider giving it a ⭐.
+If you found this project useful, consider giving it a ⭐
